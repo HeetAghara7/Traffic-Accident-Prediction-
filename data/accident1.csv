@@ -1,0 +1,301 @@
+State,Number_of_Deaths,Number_of_Injuries,Road_Type,Weather_Conditions,Alcohol_Involved,Road_Conditions,Speed_Limit
+Andhra Pradesh,2,3,Rural,Sunny,No,Poor,60
+Karnataka,1,4,Urban,Rainy,Yes,Good,40
+Delhi,0,2,Urban,Foggy,No,Poor,50
+Maharashtra,3,6,Rural,Sunny,No,Good,70
+Uttar Pradesh,1,2,Rural,Sunny,No,Fair,80
+Tamil Nadu,0,1,Urban,Sunny,Yes,Good,30
+Rajasthan,2,5,Rural,Rainy,No,Poor,60
+West Bengal,1,3,Urban,Sunny,No,Fair,50
+Gujarat,0,4,Rural,Sunny,No,Good,60
+Assam,1,2,Urban,Foggy,No,Poor,40
+Bihar,3,6,Rural,Sunny,No,Fair,70
+Punjab,2,4,Urban,Sunny,Yes,Good,30
+Haryana,1,3,Rural,Sunny,No,Fair,80
+Odisha,0,1,Urban,Rainy,No,Poor,50
+Madhya Pradesh,2,5,Rural,Rainy,No,Poor,60
+Jharkhand,1,2,Urban,Foggy,Yes,Good,40
+Chhattisgarh,3,6,Rural,Sunny,No,Fair,70
+Manipur,0,4,Rural,Sunny,No,Good,60
+Delhi,1,5,Urban,Rainy,No,Poor,40
+Karnataka,3,2,Rural,Sunny,Yes,Good,80
+Maharashtra,1,2,Urban,Sunny,No,Fair,50
+Tamil Nadu,4,1,Rural,Foggy,No,Poor,70
+Gujarat,2,4,Urban,Sunny,Yes,Fair,50
+Punjab,1,6,Rural,Rainy,No,Poor,60
+Rajasthan,1,2,Urban,Sunny,No,Good,60
+Haryana,3,3,Rural,Sunny,No,Fair,90
+Uttar Pradesh,2,2,Urban,Foggy,Yes,Good,50
+West Bengal,1,5,Rural,Sunny,No,Good,70
+Assam,2,2,Urban,Rainy,No,Fair,50
+Madhya Pradesh,1,4,Rural,Sunny,No,Good,80
+Odisha,1,3,Urban,Sunny,No,Poor,60
+Bihar,2,3,Rural,Foggy,Yes,Poor,70
+Jharkhand,3,1,Urban,Sunny,No,Good,50
+Chhattisgarh,1,2,Rural,Sunny,No,Fair,60
+Uttarakhand,1,4,Urban,Rainy,No,Poor,50
+Himachal Pradesh,3,2,Rural,Sunny,Yes,Good,80
+Telangana,1,1,Urban,Sunny,No,Fair,70
+Goa,2,4,Rural,Sunny,No,Good,90
+Karnataka,1,4,Urban,Rainy,Yes,Fair,50
+Delhi,0,2,Urban,Foggy,No,Poor,40
+Gujarat,3,2,Rural,Sunny,Yes,Good,70
+West Bengal,1,1,Urban,Sunny,No,Fair,60
+Maharashtra,0,5,Rural,Sunny,No,Poor,50
+Kerala,2,3,Rural,Foggy,Yes,Fair,60
+Assam,1,2,Urban,Sunny,No,Fair,40
+Odisha,1,4,Urban,Rainy,No,Poor,50
+Tamil Nadu,3,1,Urban,Foggy,Yes,Fair,60
+Madhya Pradesh,0,3,Rural,Sunny,No,Good,80
+Rajasthan,2,2,Urban,Foggy,No,Poor,40
+Chhattisgarh,0,2,Rural,Sunny,No,Fair,60
+Karnataka,1,4,Urban,Rainy,No,Fair,50
+Maharashtra,3,2,Rural,Foggy,No,Poor,80
+Uttar Pradesh,2,2,Urban,Sunny,Yes,Good,60
+West Bengal,1,3,Rural,Sunny,No,Good,80
+Tamil Nadu,4,1,Urban,Sunny,No,Fair,50
+Maharashtra,1,5,Urban,Sunny,No,Good,60
+Punjab,2,2,Urban,Sunny,Yes,Good,50
+Andhra Pradesh,3,4,Rural,Sunny,No,Good,80
+Kerala,2,3,Urban,Rainy,No,Poor,60
+Uttar Pradesh,1,6,Rural,Foggy,No,Poor,50
+West Bengal,2,2,Urban,Sunny,No,Good,60
+Maharashtra,1,5,Rural,Sunny,No,Poor,80
+Punjab,3,3,Urban,Rainy,Yes,Fair,50
+Tamil Nadu,2,2,Urban,Sunny,No,Fair,60
+Andhra Pradesh,4,1,Rural,Foggy,No,Good,80
+Kerala,1,4,Urban,Sunny,No,Fair,50
+Maharashtra,2,2,Urban,Sunny,Yes,Good,60
+Uttar Pradesh,1,5,Rural,Sunny,No,Good,80
+West Bengal,3,3,Urban,Rainy,No,Poor,50
+Tamil Nadu,2,2,Urban,Sunny,Yes,Good,60
+Maharashtra,1,4,Urban,Foggy,No,Poor,50
+West Bengal,3,2,Rural,Rainy,Yes,Good,80
+Andhra Pradesh,1,2,Urban,Sunny,No,Fair,60
+Karnataka,2,5,Rural,Sunny,No,Poor,70
+Assam,1,1,Urban,Rainy,No,Poor,40
+Tamil Nadu,1,3,Rural,Sunny,No,Good,90
+Uttar Pradesh,2,2,Urban,Sunny,No,Poor,50
+Kerala,4,1,Rural,Foggy,Yes,Poor,60
+Maharashtra,1,4,Urban,Rainy,No,Fair,40
+West Bengal,2,3,Rural,Sunny,No,Good,70
+Andhra Pradesh,1,1,Urban,Sunny,No,Poor,50
+Karnataka,3,2,Rural,Sunny,Yes,Poor,80
+Assam,1,2,Urban,Foggy,No,Poor,60
+Tamil Nadu,1,1,Rural,Sunny,No,Good,90
+Uttar Pradesh,2,3,Urban,Sunny,No,Poor,50
+Kerala,4,2,Rural,Rainy,Yes,Poor,60
+Maharashtra,1,1,Urban,Sunny,No,Good,40
+West Bengal,2,2,Rural,Sunny,No,Good,70
+Andhra Pradesh,1,3,Urban,Sunny,No,Poor,50
+Karnataka,3,1,Rural,Sunny,Yes,Poor,80
+Tamil Nadu,3,2,Urban,Rainy,Yes,Good,50
+Karnataka,1,4,Rural,Sunny,No,Poor,70
+Maharashtra,0,6,Urban,Foggy,No,Poor,40
+Gujarat,2,3,Rural,Sunny,No,Fair,60
+Punjab,4,1,Urban,Rainy,Yes,Poor,50
+Haryana,1,2,Rural,Sunny,No,Good,70
+Andhra Pradesh,2,3,Urban,Sunny,No,Poor,50
+Karnataka,3,2,Rural,Sunny,No,Fair,60
+Maharashtra,1,4,Urban,Foggy,Yes,Poor,40
+Gujarat,0,5,Rural,Sunny,No,Good,70
+Assam,1,2,Rural,Foggy,No,Poor,50
+Gujarat,3,4,Urban,Sunny,Yes,Good,60
+Maharashtra,2,1,Urban,Sunny,Yes,Good,50
+Assam,1,3,Rural,Rainy,No,Fair,40
+Karnataka,4,2,Urban,Foggy,Yes,Poor,60
+Andhra Pradesh,1,1,Urban,Rainy,No,Poor,50
+Kerala,2,1,Urban,Sunny,Yes,Good,60
+Madhya Pradesh,3,3,Rural,Sunny,Yes,Poor,50
+Gujarat,1,4,Urban,Rainy,No,Poor,60
+Odisha,2,2,Rural,Foggy,No,Good,40
+Rajasthan,1,1,Urban,Sunny,Yes,Fair,50
+Tamil Nadu,3,3,Urban,Sunny,Yes,Fair,60
+Assam,1,2,Rural,Rainy,No,Good,50
+Punjab,1,1,Urban,Sunny,No,Poor,60
+Karnataka,2,1,Rural,Foggy,Yes,Good,40
+Andhra Pradesh,1,3,Urban,Sunny,Yes,Poor,50
+Kerala,1,2,Urban,Rainy,No,Fair,60
+Maharashtra,2,4,Rural,Sunny,No,Good,50
+Tamil Nadu,1,1,Urban,Sunny,Yes,Fair,60
+Gujarat,3,2,Rural,Foggy,Yes,Poor,40
+Maharashtra,1,4,Urban,Rainy,No,Poor,40
+Karnataka,1,2,Rural,Sunny,Yes,Good,80
+Tamil Nadu,3,1,Urban,Sunny,No,Good,50
+Rajasthan,2,2,Rural,Sunny,No,Poor,60
+Andhra Pradesh,1,3,Urban,Sunny,Yes,Fair,50
+Gujarat,1,1,Rural,Sunny,No,Good,70
+Kerala,2,2,Urban,Sunny,No,Good,40
+Maharashtra,1,4,Urban,Rainy,No,Poor,50
+Karnataka,3,1,Rural,Sunny,Yes,Good,90
+Tamil Nadu,2,2,Urban,Sunny,No,Good,40
+West Bengal,1,4,Urban,Snowy,Yes,Poor,50
+Odisha,2,2,Rural,Rainy,Yes,Good,70
+Andhra Pradesh,1,3,Rural,Sunny,No,Good,60
+Gujarat,0,5,Urban,Foggy,No,Poor,40
+Maharashtra,3,0,Urban,Sunny,No,Fair,50
+Karnataka,1,4,Urban,Sunny,Yes,Fair,60
+Delhi,0,2,Urban,Rainy,Yes,Poor,50
+Uttar Pradesh,2,3,Rural,Sunny,No,Poor,80
+Chhattisgarh,1,1,Rural,Sunny,No,Good,60
+Tamil Nadu,4,0,Urban,Foggy,No,Poor,40
+Kerala,1,3,Rural,Sunny,Yes,Fair,70
+Assam,0,2,Rural,Sunny,No,Fair,60
+Rajasthan,2,1,Urban,Sunny,No,Poor,50
+Madhya Pradesh,0,6,Rural,Sunny,No,Good,60
+Jharkhand,3,2,Rural,Sunny,Yes,Poor,70
+Punjab,1,0,Urban,Rainy,No,Poor,50
+Haryana,0,3,Rural,Sunny,No,Fair,60
+Tamil Nadu,1,4,Urban,Foggy,No,Poor,40
+Andhra Pradesh,3,2,Rural,Rainy,Yes,Fair,80
+Karnataka,2,5,Urban,Sunny,No,Good,60
+Maharashtra,1,3,Rural,Clear,No,Good,80
+Assam,3,1,Urban,Foggy,No,Good,50
+Kerala,2,2,Rural,Rainy,Yes,Poor,60
+Odisha,1,6,Urban,Foggy,No,Poor,50
+Rajasthan,2,4,Rural,Sunny,No,Fair,70
+Telangana,1,2,Urban,Sunny,No,Good,60
+Chhattisgarh,4,3,Rural,Rainy,Yes,Poor,40
+West Bengal,2,5,Urban,Foggy,No,Fair,50
+Delhi,1,2,Rural,Clear,No,Good,60
+Goa,3,3,Urban,Sunny,No,Poor,70
+Haryana,2,2,Rural,Rainy,Yes,Good,80
+Manipur,1,4,Urban,Foggy,No,Poor,40
+Meghalaya,3,1,Rural,Sunny,No,Fair,60
+Mizoram,1,2,Urban,Sunny,No,Good,50
+Nagaland,2,3,Rural,Rainy,Yes,Good,80
+Punjab,1,3,Urban,Sunny,No,Poor,70
+Sikkim,1,5,Rural,Foggy,No,Good,50
+20-09-2022,5,Rural,Foggy,No,No,50,
+Tamil Nadu,2,5,Urban,Rainy,No,Poor,40
+Karnataka,1,3,Rural,Sunny,No,Fair,80
+Maharashtra,3,2,Urban,Foggy,Yes,Fair,60
+Uttar Pradesh,1,4,Rural,Sunny,No,Good,70
+Andhra Pradesh,2,2,Rural,Sunny,No,Fair,50
+Telangana,1,6,Urban,Foggy,No,Good,60
+Rajasthan,4,1,Rural,Rainy,Yes,Poor,80
+Odisha,2,3,Urban,Sunny,No,Fair,40
+Kerala,3,2,Rural,Foggy,No,Good,60
+Gujarat,1,3,Urban,Rainy,No,Poor,50
+Assam,2,4,Rural,Sunny,Yes,Poor,70
+Punjab,3,2,Urban,Foggy,No,Good,80
+Haryana,1,5,Rural,Sunny,No,Fair,40
+Jharkhand,2,3,Urban,Sunny,Yes,Fair,60
+Madhya Pradesh,3,2,Rural,Foggy,Yes,Good,50
+West Bengal,1,4,Urban,Sunny,No,Poor,70
+Bihar,2,3,Rural,Rainy,No,Fair,80
+Uttarakhand,1,2,Urban,Sunny,No,Good,50
+Maharashtra,3,2,Rural,Rainy,Yes,Fair,60
+West Bengal,1,4,Urban,Foggy,No,Poor,50
+Telangana,2,1,Urban,Sunny,No,Good,50
+Karnataka,4,0,Rural,Sunny,Yes,Fair,70
+Gujarat,1,2,Urban,Rainy,No,Poor,40
+Andhra Pradesh,2,3,Rural,Foggy,Yes,Fair,60
+Madhya Pradesh,0,5,Urban,Sunny,No,Fair,40
+Tamil Nadu,3,1,Urban,Rainy,Yes,Good,50
+Uttar Pradesh,1,2,Rural,Sunny,No,Poor,60
+Maharashtra,2,1,Urban,Foggy,No,Poor,40
+Delhi,3,2,Rural,Sunny,Yes,Fair,70
+Karnataka,1,4,Urban,Sunny,No,Good,50
+Gujarat,2,3,Urban,Rainy,No,Poor,40
+Andhra Pradesh,4,0,Rural,Sunny,Yes,Good,60
+Tamil Nadu,0,5,Urban,Foggy,No,Fair,50
+West Bengal,3,2,Rural,Rainy,Yes,Fair,60
+Delhi,1,2,Urban,Sunny,No,Poor,50
+Gujarat,2,3,Urban,Rainy,No,Poor,40
+Andhra Pradesh,2,4,Urban,Foggy,Yes,Poor,50
+Kerala,1,3,Rural,Sunny,No,Good,70
+Assam,3,1,Rural,Sunny,Yes,Poor,60
+Delhi,1,5,Urban,Snowy,No,Poor,50
+Haryana,2,2,Rural,Sunny,No,Good,60
+Maharashtra,4,0,Urban,Rainy,Yes,Poor,40
+Tamil Nadu,1,3,Rural,Sunny,No,Good,70
+Gujarat,3,2,Urban,Sunny,No,Good,50
+Rajasthan,2,1,Rural,Sunny,Yes,Poor,60
+Karnataka,1,2,Urban,Foggy,No,Poor,40
+West Bengal,3,4,Rural,Rainy,No,Fair,50
+Odisha,4,0,Urban,Sunny,Yes,Fair,60
+Madhya Pradesh,1,3,Rural,Sunny,No,Good,70
+Punjab,2,2,Urban,Sunny,Yes,Good,50
+Chhattisgarh,1,1,Rural,Sunny,No,Good,80
+Uttar Pradesh,3,0,Urban,Rainy,Yes,Fair,60
+Jharkhand,2,2,Rural,Sunny,No,Good,60
+Manipur,4,1,Rural,Sunny,Yes,Poor,50
+Maharashtra,2,5,Urban,Foggy,No,Good,50
+Andhra Pradesh,4,1,Rural,Sunny,Yes,Poor,70
+Delhi,1,3,Urban,Sunny,No,Good,40
+West Bengal,2,2,Rural,Rainy,No,Poor,60
+Assam,3,2,Urban,Sunny,No,Good,50
+Odisha,5,3,Rural,Sunny,Yes,Good,60
+Karnataka,1,4,Urban,Sunny,No,Fair,40
+Andhra Pradesh,2,2,Rural,Rainy,No,Poor,60
+Maharashtra,4,1,Urban,Sunny,Yes,Good,50
+Delhi,2,3,Urban,Foggy,No,Good,40
+West Bengal,1,2,Rural,Sunny,No,Good,60
+Assam,3,1,Urban,Rainy,No,Poor,50
+Odisha,2,5,Rural,Sunny,No,Good,60
+Karnataka,3,2,Rural,Sunny,Yes,Good,70
+Andhra Pradesh,1,3,Urban,Sunny,No,Fair,40
+Maharashtra,2,2,Rural,Foggy,No,Poor,60
+Delhi,5,1,Urban,Sunny,Yes,Good,50
+West Bengal,2,3,Rural,Sunny,No,Good,60
+Odisha,2,1,Rural,Sunny,Yes,Poor,60
+Madhya Pradesh,3,3,Urban,Rainy,Yes,Fair,50
+Assam,1,2,Rural,Foggy,No,Good,40
+Punjab,1,1,Urban,Sunny,No,Poor,50
+Andhra Pradesh,2,1,Rural,Sunny,Yes,Fair,60
+Karnataka,3,2,Urban,Rainy,Yes,Poor,50
+Tamil Nadu,1,2,Rural,Foggy,No,Good,40
+Gujarat,2,3,Urban,Sunny,No,Good,50
+Rajasthan,1,1,Rural,Sunny,Yes,Poor,60
+Assam,1,2,Urban,Rainy,No,Fair,50
+Punjab,1,1,Rural,Sunny,No,Poor,40
+Andhra Pradesh,2,1,Urban,Foggy,Yes,Good,50
+Kerala,3,2,Rural,Sunny,Yes,Fair,60
+Maharashtra,1,2,Urban,Rainy,No,Good,50
+Tamil Nadu,2,4,Rural,Sunny,No,Poor,40
+Gujarat,1,1,Urban,Foggy,Yes,Good,50
+Odisha,3,3,Rural,Rainy,Yes,Poor,60
+Rajasthan,1,1,Urban,Sunny,No,Fair,50
+Madhya Pradesh,2,3,Rural,Sunny,No,Good,40
+Karnataka,1,2,Urban,Rainy,Yes,Poor,50
+Andhra Pradesh,2,3,Rural,Sunny,No,Poor,60
+Karnataka,1,4,Urban,Rainy,Yes,Good,40
+Delhi,0,2,Urban,Foggy,No,Poor,50
+Maharashtra,3,6,Rural,Sunny,No,Good,70
+Uttar Pradesh,1,2,Rural,Sunny,No,Fair,80
+Tamil Nadu,0,1,Urban,Sunny,Yes,Good,30
+Rajasthan,2,5,Rural,Rainy,No,Poor,60
+West Bengal,1,3,Urban,Sunny,No,Fair,50
+Gujarat,0,4,Rural,Sunny,No,Good,60
+Assam,1,2,Urban,Foggy,No,Poor,40
+Bihar,3,6,Rural,Sunny,No,Fair,70
+Punjab,2,4,Urban,Sunny,Yes,Good,30
+Haryana,1,3,Rural,Sunny,No,Fair,80
+Odisha,0,1,Urban,Rainy,No,Poor,50
+Madhya Pradesh,2,5,Rural,Rainy,No,Poor,60
+Jharkhand,1,2,Urban,Foggy,Yes,Good,40
+Chhattisgarh,3,6,Rural,Sunny,No,Fair,70
+Manipur,0,4,Rural,Sunny,No,Good,60
+Delhi,1,5,Urban,Rainy,No,Poor,40
+West Bengal,1,3,Urban,Sunny,No,Fair,50
+Chhattisgarh,3,1,Urban,Sunny,Yes,Poor,60
+Maharashtra,2,2,Rural,Sunny,Yes,Fair,70
+Andhra Pradesh,1,4,Urban,Rainy,Yes,Good,80
+Odisha,0,5,Rural,Foggy,No,Poor,40
+Telangana,2,3,Urban,Sunny,No,Fair,60
+Kerala,1,1,Rural,Sunny,No,Fair,50
+Assam,1,2,Urban,Rainy,No,Good,40
+Gujarat,3,0,Urban,Snowy,No,Good,80
+Rajasthan,2,1,Rural,Sunny,Yes,Poor,60
+Karnataka,1,4,Rural,Sunny,Yes,Fair,70
+Andhra Pradesh,0,5,Urban,Sunny,No,Poor,50
+Tamil Nadu,2,2,Urban,Rainy,Yes,Good,40
+Madhya Pradesh,1,3,Rural,Sunny,No,Good,60
+Chhattisgarh,3,0,Rural,Sunny,Yes,Poor,50
+Maharashtra,2,2,Urban,Foggy,Yes,Good,40
+Odisha,1,1,Rural,Sunny,No,Fair,70
+Karnataka,0,4,Urban,Sunny,No,Fair,50
+Andhra Pradesh,1,2,Rural,Sunny,No,Good,40
+Telangana,3,1,Rural,Snowy,Yes,Poor,60
+Kerala,2,2,Urban,Rainy,Yes,Poor,70
